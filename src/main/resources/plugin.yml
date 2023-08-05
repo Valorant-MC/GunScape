@@ -1,0 +1,9 @@
+name: GunScape
+main: io.github.nicks.GunScape
+
+version: 0.1
+api-version: 1.20
+
+commands:
+  gun:
+    aliases: [ 총 ]
